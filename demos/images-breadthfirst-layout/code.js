@@ -34,7 +34,7 @@ var cy = cytoscape({
       })
     .selector('#bird')
       .css({
-        'background-image': 'https://live.staticflickr.com/7272/7633179468_3e19e45a0c_b.jpg'
+        'background-image': 'https://rest.kegg.jp/get/hsa00600/image'
       })
     .selector('#cat')
       .css({
